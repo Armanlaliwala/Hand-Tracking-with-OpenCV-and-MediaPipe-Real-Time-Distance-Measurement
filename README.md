@@ -30,12 +30,6 @@ This Python project leverages **OpenCV** and **MediaPipe** to detect and track h
 
 [![Hand Tracking Demo](https://img.youtube.com/vi/vvo8b3Pw8rY/0.jpg)](https://www.youtube.com/shorts/vvo8b3Pw8rY)
 
-### **📹 Video Demonstration**
-
-<video width="100%" controls>
-  <source src="output.mp4" type="video/mp4">
-</video>
-
 ---
 
 ## 📥 Installation & Setup
