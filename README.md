@@ -106,7 +106,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## 📬 Contact & Support
 
-For any issues or suggestions, feel free to open an [issue](linkedin/in/armanlaliwala) or contact me at **[your-email@example.com](mailto:armanlaliwala@gmail.com)**.
+For any issues or suggestions, feel free to open an [issue](linkedin/in/armanlaliwala) or contact me at **[armanlaliwala@gmail.com](mailto:armanlaliwala@gmail.com)**.
 
 ---
 
