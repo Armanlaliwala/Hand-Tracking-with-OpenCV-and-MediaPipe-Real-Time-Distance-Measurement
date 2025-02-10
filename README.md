@@ -33,7 +33,7 @@ This Python project leverages **OpenCV** and **MediaPipe** to detect and track h
 ### **📹 Video Demonstration**
 
 <video width="100%" controls>
-  <source src="output.mp4" type="video/mp4">
+  <source src="https://github.com/Armanlaliwala/Hand-Tracking-with-OpenCV-and-MediaPipe-Real-Time-Distance-Measurement/blob/main/output.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -46,7 +46,7 @@ Follow these steps to set up and run the project:
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/hand-tracking-opencv.git
+git clone https://github.com/Armanlaliwala/Hand-Tracking-with-OpenCV-and-MediaPipe-Real-Time-Distance-Measurement
 cd hand-tracking-opencv
 ```
 
@@ -61,7 +61,7 @@ pip install opencv-python mediapipe numpy
 ### **3️⃣ Run the Script**
 
 ```bash
-python hand_tracking.py
+python https://github.com/Armanlaliwala/Hand-Tracking-with-OpenCV-and-MediaPipe-Real-Time-Distance-Measurement/blob/main/hand.ipynb
 ```
 
 ### **4️⃣ Controls**
@@ -106,7 +106,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## 📬 Contact & Support
 
-For any issues or suggestions, feel free to open an [issue](https://github.com/your-username/hand-tracking-opencv/issues) or contact me at **[your-email@example.com](mailto:your-email@example.com)**.
+For any issues or suggestions, feel free to open an [issue](linkedin/in/armanlaliwala) or contact me at **[your-email@example.com](mailto:armanlaliwala@gmail.com)**.
 
 ---
 
