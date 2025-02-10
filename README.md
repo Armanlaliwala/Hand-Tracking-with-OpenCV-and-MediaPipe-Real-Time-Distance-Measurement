@@ -36,7 +36,6 @@ This Python project leverages **OpenCV** and **MediaPipe** to detect and track h
   <source src="output.mp4" type="video/mp4">
 </video>
 
----
 
 ## 📥 Installation & Setup
 
