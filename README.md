@@ -34,7 +34,6 @@ This Python project leverages **OpenCV** and **MediaPipe** to detect and track h
 
 <video width="100%" controls>
   <source src="output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 ---
@@ -106,7 +105,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## 📬 Contact & Support
 
-For any issues or suggestions, feel free to open an [issue](linkedin/in/armanlaliwala) or contact me at **[armanlaliwala@gmail.com](mailto:armanlaliwala@gmail.com)**.
+For any issues or suggestions, feel free to open an [issue](https://www.linkedin.com/in/armanlaliwala/) or contact me at **[armanlaliwala@gmail.com](mailto:armanlaliwala@gmail.com)**.
 
 ---
 
